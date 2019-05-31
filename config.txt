@@ -1,0 +1,6 @@
+owner=350135013465128966
+prefix=*r
+game=Break | *rplay
+stayinchannel=true
+songinstatus=false
+token= Êﬂ‰ «·»Ê 
